@@ -1,0 +1,9 @@
+# Ignore the MDK intermediate files
+
+# ============================= Folders =============================
+build/
+
+.vscode/
+
+
+

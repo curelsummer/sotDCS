@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sotDCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sotDCS\\main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sotDCS\\components\\window\\win_ces.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\window\\win_ces.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sotDCS\\components\\window\\win_basic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\window\\win_basic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sotDCS\\components\\window\\win_basic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\window\\win_basic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sotDCS\\components\\window\\dispwin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\window\\dispwin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sotDCS\\components\\window\\dispwin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\window\\dispwin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sotDCS\\components\\window\\CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\window\\CMakeLists.txt||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\sotDCS\\main\\main.c",
+              "RelativeDocumentMoniker": "main\\main.c",
+              "ToolTip": "E:\\sotDCS\\main\\main.c",
+              "RelativeToolTip": "main\\main.c",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-24T01:03:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "win_ces.c",
+              "DocumentMoniker": "E:\\sotDCS\\components\\window\\win_ces.c",
+              "RelativeDocumentMoniker": "components\\window\\win_ces.c",
+              "ToolTip": "E:\\sotDCS\\components\\window\\win_ces.c",
+              "RelativeToolTip": "components\\window\\win_ces.c",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAAFEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-23T08:33:03.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "win_basic.h",
+              "DocumentMoniker": "E:\\sotDCS\\components\\window\\win_basic.h",
+              "RelativeDocumentMoniker": "components\\window\\win_basic.h",
+              "ToolTip": "E:\\sotDCS\\components\\window\\win_basic.h",
+              "RelativeToolTip": "components\\window\\win_basic.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T08:33:02.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "win_basic.c",
+              "DocumentMoniker": "E:\\sotDCS\\components\\window\\win_basic.c",
+              "RelativeDocumentMoniker": "components\\window\\win_basic.c",
+              "ToolTip": "E:\\sotDCS\\components\\window\\win_basic.c",
+              "RelativeToolTip": "components\\window\\win_basic.c",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-23T08:32:52.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dispwin.h",
+              "DocumentMoniker": "E:\\sotDCS\\components\\window\\dispwin.h",
+              "RelativeDocumentMoniker": "components\\window\\dispwin.h",
+              "ToolTip": "E:\\sotDCS\\components\\window\\dispwin.h",
+              "RelativeToolTip": "components\\window\\dispwin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-23T08:32:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dispwin.c",
+              "DocumentMoniker": "E:\\sotDCS\\components\\window\\dispwin.c",
+              "RelativeDocumentMoniker": "components\\window\\dispwin.c",
+              "ToolTip": "E:\\sotDCS\\components\\window\\dispwin.c",
+              "RelativeToolTip": "components\\window\\dispwin.c",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-23T08:32:37.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "E:\\sotDCS\\components\\window\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "components\\window\\CMakeLists.txt",
+              "ToolTip": "E:\\sotDCS\\components\\window\\CMakeLists.txt",
+              "RelativeToolTip": "components\\window\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-23T08:32:31.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
